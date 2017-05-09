@@ -1,0 +1,8 @@
+H:\Projets\Core\AppFirst\bin\Debug\netcoreapp1.1\AppFirst.deps.json
+H:\Projets\Core\AppFirst\bin\Debug\netcoreapp1.1\AppFirst.runtimeconfig.json
+H:\Projets\Core\AppFirst\bin\Debug\netcoreapp1.1\AppFirst.runtimeconfig.dev.json
+H:\Projets\Core\AppFirst\bin\Debug\netcoreapp1.1\AppFirst.dll
+H:\Projets\Core\AppFirst\bin\Debug\netcoreapp1.1\AppFirst.pdb
+H:\Projets\Core\AppFirst\obj\Debug\netcoreapp1.1\AppFirst.AssemblyInfo.cs
+H:\Projets\Core\AppFirst\obj\Debug\netcoreapp1.1\AppFirst.dll
+H:\Projets\Core\AppFirst\obj\Debug\netcoreapp1.1\AppFirst.pdb
