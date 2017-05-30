@@ -1,0 +1,20 @@
+﻿
+@model ArticlesMVC.Entities.Post
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+<h2>@Model.Title</h2>
+<div>
+    @Model.Text;
+</div>
+<div>
+    Posted by @Model.Author
+    on @Model.Date.ToString("d")
+</div>
+
+</body>
+</html>

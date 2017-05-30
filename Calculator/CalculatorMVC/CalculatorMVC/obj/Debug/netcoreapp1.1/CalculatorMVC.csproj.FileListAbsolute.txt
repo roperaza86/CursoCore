@@ -1,0 +1,6 @@
+H:\Projets\Core2\Calculator\CalculatorMVC\CalculatorMVC\bin\Debug\netcoreapp1.1\CalculatorMVC.deps.json
+H:\Projets\Core2\Calculator\CalculatorMVC\CalculatorMVC\bin\Debug\netcoreapp1.1\CalculatorMVC.runtimeconfig.json
+H:\Projets\Core2\Calculator\CalculatorMVC\CalculatorMVC\bin\Debug\netcoreapp1.1\CalculatorMVC.runtimeconfig.dev.json
+H:\Projets\Core2\Calculator\CalculatorMVC\CalculatorMVC\bin\Debug\netcoreapp1.1\CalculatorMVC.dll
+H:\Projets\Core2\Calculator\CalculatorMVC\CalculatorMVC\obj\Debug\netcoreapp1.1\CalculatorMVC.csprojResolveAssemblyReference.cache
+H:\Projets\Core2\Calculator\CalculatorMVC\CalculatorMVC\obj\Debug\netcoreapp1.1\CalculatorMVC.AssemblyInfo.cs

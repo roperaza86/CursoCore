@@ -1,0 +1,9 @@
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\bin\Debug\netcoreapp1.1\Practica2_2.deps.json
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\bin\Debug\netcoreapp1.1\Practica2_2.runtimeconfig.json
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\bin\Debug\netcoreapp1.1\Practica2_2.runtimeconfig.dev.json
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\bin\Debug\netcoreapp1.1\Practica2_2.dll
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\bin\Debug\netcoreapp1.1\Practica2_2.pdb
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\obj\Debug\netcoreapp1.1\Practica2_2.csprojResolveAssemblyReference.cache
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\obj\Debug\netcoreapp1.1\Practica2_2.AssemblyInfo.cs
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\obj\Debug\netcoreapp1.1\Practica2_2.dll
+H:\Projets\Core2\Practica2_2\Practica2_2\Practica2_2\obj\Debug\netcoreapp1.1\Practica2_2.pdb

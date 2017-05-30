@@ -1,0 +1,9 @@
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\bin\Debug\netcoreapp1.1\ArticlesMVC.deps.json
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\bin\Debug\netcoreapp1.1\ArticlesMVC.runtimeconfig.json
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\bin\Debug\netcoreapp1.1\ArticlesMVC.runtimeconfig.dev.json
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\bin\Debug\netcoreapp1.1\ArticlesMVC.dll
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\obj\Debug\netcoreapp1.1\ArticlesMVC.csprojResolveAssemblyReference.cache
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\obj\Debug\netcoreapp1.1\ArticlesMVC.AssemblyInfo.cs
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\bin\Debug\netcoreapp1.1\ArticlesMVC.pdb
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\obj\Debug\netcoreapp1.1\ArticlesMVC.dll
+H:\Projets\Core2\Articles\ArticlesMVC\ArticlesMVC\obj\Debug\netcoreapp1.1\ArticlesMVC.pdb

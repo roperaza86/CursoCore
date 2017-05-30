@@ -1,0 +1,9 @@
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\bin\Debug\netcoreapp1.1\MyFirtsAppVS17.deps.json
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\bin\Debug\netcoreapp1.1\MyFirtsAppVS17.runtimeconfig.json
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\bin\Debug\netcoreapp1.1\MyFirtsAppVS17.runtimeconfig.dev.json
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\bin\Debug\netcoreapp1.1\MyFirtsAppVS17.dll
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\bin\Debug\netcoreapp1.1\MyFirtsAppVS17.pdb
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\obj\Debug\netcoreapp1.1\MyFirtsAppVS17.AssemblyInfo.cs
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\obj\Debug\netcoreapp1.1\MyFirtsAppVS17.dll
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\obj\Debug\netcoreapp1.1\MyFirtsAppVS17.pdb
+H:\Projets\Core2\MyFirtsAppVS17\MyFirtsAppVS17\obj\Debug\netcoreapp1.1\MyFirtsAppVS17.csprojResolveAssemblyReference.cache
